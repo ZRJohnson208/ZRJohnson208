@@ -6,8 +6,8 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <!---Github Stats-->
-![Stats](https://github-readme-stats.vercel.app/api?username=ZRJohnson&show_icons=true&count_private=true&theme=dark)
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ZRJohnson208&show_icons=true&count_private=true&theme=dark)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson208&theme=dark)
 </div>
 <!------>
 

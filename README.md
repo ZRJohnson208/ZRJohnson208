@@ -18,7 +18,7 @@
 ---
 
 <!------- --Daily Quote-- ------->
-<h3>💡Quote of the Day💡</h3>
+<h3>💡Random Developer Quote💡</h3>
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>

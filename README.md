@@ -7,11 +7,15 @@
 <a href="https://www.youtube.com/@cardinalboy-fy3lu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="mailto:zachrjohnson08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discordapp.com/users/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+
 ---
+
 <!------- --GitHub Stats-- ------->
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZRJohnson208&show_icons=true&count_private=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ZRJohnson208&card_width=300&theme=dark)
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson208&langs_count=10&card_width=770&theme=dark)
+
+---
 
 <h3>💡Quote of The Day💡</h3>
 

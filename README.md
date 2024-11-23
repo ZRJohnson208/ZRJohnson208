@@ -15,7 +15,7 @@
 
 <h3>💡Quote of The Day💡</h3>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 
 <!------- --About Me-- ------->

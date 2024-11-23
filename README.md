@@ -2,12 +2,12 @@
   
 <!------- --Banner-- ------->
 ![Banner](https://github.com/user-attachments/assets/7c258892-9b00-413f-af2c-ec7486151e20)
-<h1><pre><img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=40&center=true&vCenter=true&width=600&height=50&color=FFFFFFF8&duration=4500&lines=Hello,+I'm+Zach+Johnson!;"/></pre></h1>
+<pre><img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=40&center=true&vCenter=true&width=600&height=50&color=FFFFFFF8&duration=4500&lines=Hello,+I'm+Zach+Johnson!;"/></pre>
 
 <a href="https://www.youtube.com/@cardinalboy-fy3lu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="mailto:zachrjohnson08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discordapp.com/users/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-
+---
 <!------- --GitHub Stats-- ------->
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZRJohnson208&show_icons=true&count_private=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ZRJohnson208&card_width=300&theme=dark)

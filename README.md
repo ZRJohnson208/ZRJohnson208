@@ -30,3 +30,5 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 ## 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ZRJohnson208&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)
+
+<img src="https://komarev.com/ghpvc/?username=ZRJohnson208&&style=for-the-badge">

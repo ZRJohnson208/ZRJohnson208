@@ -12,6 +12,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZRJohnson208&show_icons=true&count_private=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ZRJohnson208&card_width=300&theme=dark)
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson208&langs_count=10&card_width=770&theme=dark)
+
+<h3>💡Quote of The Day💡</h3>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 
 <!------- --About Me-- ------->
@@ -30,5 +34,3 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 ## 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ZRJohnson208&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)
-
-<img src="https://komarev.com/ghpvc/?username=ZRJohnson208&&style=for-the-badge">

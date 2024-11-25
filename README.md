@@ -13,7 +13,7 @@
 <!------- --GitHub Stats-- ------->
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZRJohnson208&show_icons=true&count_private=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ZRJohnson208&card_width=300&theme=dark)
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson208&langs_count=10&card_width=770&layout=compact*theme=dark)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson208&langs_count=10&card_width=770&layout=compact&theme=dark)
 
 ---
 

@@ -25,7 +25,7 @@
 
 <!------- --About Me-- ------->
 ## ℹ️ About Me
-I'm a self-taught, passionate programmer and web developer. I have extensive experience in HTML and CSS. I strongly believe in and contribute to Open Source. When I'm not coding, you can find me gaming.
+I'm a self-taught, passionate programmer and web developer. I have extensive experience in HTML and CSS. I strongly believe in and contribute to Open Source.
 
 ## 🛠 Programming & Tool Stack
 

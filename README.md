@@ -40,4 +40,8 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ZRJohnson208&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)
 
-<p align="center"><sub>Made With ❤️<br>Copyright © 2024-present ZRJohnson208</sub></p>
+<div align="center">
+<img src="https://wakatime.com/badge/user/e7ff400a-7fa6-4f0f-be54-ea77ecaf95af.svg?&style=for-the-badge&color=ff0000">
+
+<p><sub>Made With ❤️<br>Copyright © 2024-present ZRJohnson208</sub></p></p>
+</div>
